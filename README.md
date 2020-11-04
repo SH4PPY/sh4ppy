@@ -1,6 +1,6 @@
 ## James Shapcott
 
-[email](shapcott.james@outlook.com)
+```email - shapcott.james@outlook.com```
 
 I am a graduate of Games Computing from the University of Lincoln.
 
