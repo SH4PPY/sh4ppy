@@ -4,9 +4,7 @@
 
 Graduate of Games Computing from the University of Lincoln.
 
-See some work here - [Portfolio](https://github.com/SH4PPY?tab=repositories)
-
-And on my pinned projects
+See some work here - [Portfolio](https://github.com/SH4PPY?tab=repositories) - As well as in my pinned projects
 
 ### Skills/Experience
 - C#
